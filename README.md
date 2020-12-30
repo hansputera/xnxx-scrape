@@ -10,7 +10,7 @@ Scrape [xnxx](https://xnxx.com) dengan pyppeteer dan BeautifulSoup 4 Python
 # Output
 
 ## videos
-```json
+```
 [{
   "title": String,
   "url": String,
@@ -23,7 +23,7 @@ Scrape [xnxx](https://xnxx.com) dengan pyppeteer dan BeautifulSoup 4 Python
 ## videos/<video_name>
 
 ### Success
-```json
+```
 {
   "success": true,
   "message": "Success 200",
@@ -42,7 +42,7 @@ Scrape [xnxx](https://xnxx.com) dengan pyppeteer dan BeautifulSoup 4 Python
 }
 ```
 ### Fail
-```json
+```
 {
   "success": false,
   "message": "Not found"
